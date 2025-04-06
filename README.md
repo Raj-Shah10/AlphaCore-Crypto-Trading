@@ -1,8 +1,6 @@
 # AlphaCore-Crypto-Trading
 A real-time trading dashboard built with Python, Streamlit, and Plotly. It fetches market data using CCXT, processes it with technical indicators, and generates basic buy/sell signals for informed trading decisions. The solution is modular and extensible and ideal for educational or prototyping purposes.
 
-```markdown
-
 This is an automated trading dashboard. It uses **Streamlit** for the user interface, **CCXT** or **yFinance** to fetch market data, and **Plotly** for data visualization. It also includes support for **technical indicators**, simple **signal generation**, and optional **AI-powered insights** via Google Generative AI.
 
 ---
