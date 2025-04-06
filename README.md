@@ -7,7 +7,7 @@ This is an automated trading dashboard. It uses **Streamlit** for the user inter
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - 📈 Fetch real-time or historical market data (crypto)
 - ⚙️ Apply technical analysis indicators (e.g., moving averages)
@@ -18,7 +18,7 @@ This is an automated trading dashboard. It uses **Streamlit** for the user inter
 
 ---
 
-## 📦 Technologies Used
+📦 Technologies Used
 
 - Python 3.x
 - Streamlit
@@ -30,7 +30,7 @@ This is an automated trading dashboard. It uses **Streamlit** for the user inter
 
 ---
 
-## 🛠️ Installation
+🛠️ Installation
 
 3. **Install dependencies:**
    
@@ -38,18 +38,18 @@ This is an automated trading dashboard. It uses **Streamlit** for the user inter
    
 ---
 
-## 📌 MVP Link
+📌 MVP Link
 
 🔗 [Live Demo](https://your-streamlit-url.streamlit.app) *(Replace with actual URL after deployment)*
 
 ---
 
-## 📜 License
+📜 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributing
+🤝 Contributing
 
 You can fix the repo, raise issues, or submit PRs. All improvements are welcome!
