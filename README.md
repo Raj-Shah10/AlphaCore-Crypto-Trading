@@ -16,7 +16,7 @@ A real-time, automated trading dashboard built with Python, Streamlit, and Plotl
 
 📦 Technologies Used
 
-- Python 3.x
+- Python
 - Streamlit
 - Plotly
 - Pandas 
@@ -38,8 +38,3 @@ A real-time, automated trading dashboard built with Python, Streamlit, and Plotl
 
 🔗 [Live Demo](https://your-streamlit-url.streamlit.app) *(Replace with actual URL after deployment)*
 
----
-
-🤝 Contributing
-
-You can fix the repo, raise issues, or submit PRs. All improvements are welcome!
