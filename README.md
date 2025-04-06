@@ -30,9 +30,9 @@ A real-time, automated trading dashboard built with Python, Streamlit, and Plotl
 
 **Install dependencies:**
 
-'''
+
    pip install streamlit plotly pandas ccxt requests google-generativeai yfinance
-'''
+
    
 ---
 
